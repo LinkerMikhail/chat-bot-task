@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Please create .env file with two VITE_OPENAI_API_KEY and VITE_ANTHROPIC_API_KEY. Added your tokens as values
+Please create .env file with two keys VITE_OPENAI_API_KEY and VITE_ANTHROPIC_API_KEY. Added your tokens as values
 
 Currently, two official plugins are available:
 
